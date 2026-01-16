@@ -1,18 +1,56 @@
-# 💫 About Me:
-About Me<br>👋 Hello there! I'm a passionate programmer on a mission to make a mark in the tech world. At the ripe age of 20, hailing from the country of Colombia, I am driven by the desire to excel and soak up knowledge like a sponge.<br><br>What Sets Me Apart:<br>🚀 Ambitious Learner: I thrive on challenges and believe in the power of continuous learning. My journey in programming is not just a job but a relentless pursuit of mastery in the ever-evolving tech landscape.<br><br>💻 Code Enthusiast: With a knack for coding, I am eager to contribute my skills to diverse projects. Whether it's crafting clean code or solving complex problems, I am always up for the task.<br><br>🌐 Global Perspective: Being from Colombia, I bring a unique perspective to the table. I believe diversity fuels innovation, and I am excited about collaborating with teams from different corners of the world.<br><br>What I'm Looking For:<br>🤝 Project Collaborations: I am actively seeking opportunities to participate in exciting projects. If you have a project that needs a dedicated and innovative programmer, count me in!<br><br>🔍 Learning Opportunities: I am open to mentorship and learning from experienced professionals. Guidance from those who've walked the path is invaluable to me.<br><br>Let's Connect!<br>I'm not just here to code; I'm here to create, collaborate, and contribute. If you're a recruiter or a fellow enthusiast, let's connect! Feel free to reach out for a chat, project collaboration, or just to share cool tech ideas.<br><br>Let's build something amazing together! 🚀✨
+<h1 align="center">Hi, I'm Nicolás 👋</h1>
+<p align="center">
+  Full-Stack Developer · Web3 × AI · Colombia 🇨🇴
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas.g88/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-nicolas-garcia-vega/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nicolas6879&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicolas6879&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas6879&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-nicolas-garcia-vega/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nicolas.g88/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nicolas6879&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About
+I build product-focused web applications end-to-end — from UI to APIs and databases — and I love projects at the intersection of **Web3, AI, and real-world impact**.
+
+- 🧠 Interests: Full-stack systems, AI agents, blockchain integrations, scalable APIs  
+- 🤝 Open to: collaborations, hackathons, and full-stack opportunities  
+- ✉️ Let’s talk: reach me on LinkedIn
+
+---
+
+## ⭐ Featured Projects
+### 🌾 AgroHedera — AI + Blockchain for Agriculture
+AI-powered agricultural assistant leveraging **Hedera Hashgraph** for secure, transparent record keeping and insights.  
+🔗 Repo: https://github.com/Nicolas6879/agro_hedera-agent
+
+### 🪪 Offchain HubKey — Web3 Membership & Events Platform
+A complete engagement platform for Offchain Brasil (membership + identification via Web3/NFTs + partner hubs).  
+🔗 Repo: https://github.com/Nicolas6879/Offchain-hubkey
+
+### 🧴 Derma.AI — Acne Grading Classification (Computer Vision)
+A project focused on a **basic acne type assessment** using an image dataset (notebook + slides included).  
+🔗 Repo: https://github.com/Nicolas6879/Derma.AI
+
+---
+
+## 🧰 Tech Stack (high-level)
+**Frontend:** React, Angular, JavaScript/TypeScript, HTML/CSS  
+**Backend:** Node.js, Express, Django  
+**Data/AI:** Python, Anaconda, Jupyter  
+**Databases:** PostgreSQL, MySQL, MariaDB, MongoDB, Oracle  
+**Other:** Java, C++, Markdown, LaTeX
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=nicolas6879&style=flat-square)
+
+---
+
+<p align="center">
+  <i>Let’s build something useful — and ship it. 🚀</i>
+</p>
