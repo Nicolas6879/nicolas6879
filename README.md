@@ -41,7 +41,7 @@ A project focused on a **basic acne type assessment** using an image dataset (no
 ## 🧰 Tech Stack 
 **Frontend:** React, Angular, JavaScript/TypeScript, HTML/CSS  
 **Backend:** Node.js, Express, Django  
-**Data/AI:** Python, Anaconda, Jupyter  
+**Data/AI:** Python, Anaconda, Jupyter, Collab
 **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB, Oracle  
 **Other:** Java, C++, Markdown, LaTeX
 
