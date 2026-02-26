@@ -34,6 +34,8 @@ on-chain without human intervention, using HBAR as the native economic layer.
 
 > 🥈 **2nd Place — On-Chain Automation Hedera Track @ ETHDenver 2026**  
 > Competing against nearly 200 projects worldwide.
+🔗 Repo: https://github.com/kevincompton/dream-team
+
 ### 🌾 AgroHedera — AI + Blockchain for Agriculture
 AI-powered agricultural assistant leveraging **Hedera Hashgraph** for secure, transparent record keeping and insights.  
 🔗 Repo: https://github.com/Nicolas6879/agro_hedera-agent
