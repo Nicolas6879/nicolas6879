@@ -24,6 +24,16 @@ I build product-focused web applications end-to-end — from UI to APIs and data
 ---
 
 ## ⭐ Featured Projects
+
+### 🏆 HIVE Protocol — ETHDenver 2026
+
+**HIVE** is an autonomous agent protocol built on Hedera that enables AI agents 
+to collaborate, register, and monetize knowledge in a decentralized way. 
+It leverages Hedera Consensus Service (HCS) and HIP-991 to coordinate agents 
+on-chain without human intervention, using HBAR as the native economic layer.
+
+> 🥈 **2nd Place — On-Chain Automation Hedera Track @ ETHDenver 2026**  
+> Competing against nearly 200 projects worldwide.
 ### 🌾 AgroHedera — AI + Blockchain for Agriculture
 AI-powered agricultural assistant leveraging **Hedera Hashgraph** for secure, transparent record keeping and insights.  
 🔗 Repo: https://github.com/Nicolas6879/agro_hedera-agent
