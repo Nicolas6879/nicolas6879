@@ -1,69 +1,68 @@
-<h1 align="center">Hi, I'm Nicolás 👋</h1>
-<p align="center">
-  Full-Stack Developer · Web3 × AI · Colombia 🇨🇴
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-nicolas-garcia-vega/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/nicolas.g88/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=140&section=header&text=Nicol%C3%A1s%20Garc%C3%ADa%20Vega&fontSize=42&fontColor=ffffff&fontAlignY=52&desc=Full-Stack%20Developer%20%C2%B7%20Web3%20%C3%97%20AI&descSize=18&descAlignY=76&descColor=a0a0c0" width="100%" />
 
----
+<br><br>
 
-## 🚀 About
-I build product-focused web applications end-to-end — from UI to APIs and databases — and I love projects at the intersection of **Web3, AI, and real-world impact**.
+<a href="https://www.linkedin.com/in/juan-nicolas-garcia-vega/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Colombia-1a1a2e?style=flat-square&logo=googlemaps&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20work-1a1a2e?style=flat-square&logo=briefcase&logoColor=white" />
 
-- 🧠 Interests: Full-stack systems, AI agents, blockchain integrations, scalable APIs  
-- 🤝 Open to: collaborations, hackathons, and full-stack opportunities  
-- ✉️ Let’s talk: reach me on LinkedIn
+</div>
 
----
+<br>
 
-## ⭐ Featured Projects
+I build product-focused apps end to end, from UI to smart contracts, with a focus on **AI agents and blockchain**. Most of my recent work comes from hackathons where I ship a full working product (deployed contract, live demo, on-chain verification) in under 48 hours.
 
-### 🏆 HIVE Protocol — ETHDenver 2026
+<br>
 
-**HIVE** is an autonomous agent protocol built on Hedera that enables AI agents 
-to collaborate, register, and monetize knowledge in a decentralized way. 
-It leverages Hedera Consensus Service (HCS) and HIP-991 to coordinate agents 
-on-chain without human intervention, using HBAR as the native economic layer.
+## Featured builds
 
-> 🥈 **2nd Place — On-Chain Automation Hedera Track @ ETHDenver 2026**  
-> Competing against nearly 200 projects worldwide.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 Repo: https://github.com/kevincompton/dream-team
+**[VerifiChain Visual](https://github.com/Nicolas6879/verifichain-vision-oracle)**
+Autonomous visual QA agent for industrial materials. Multi-agent CV (YOLOv8 + Claude fallback) anchors every verdict on Hedera HCS and mints an HTS NFT certificate on approval.
+`APEX 2026 · Hedera Hello Future`
 
-### 🌾 AgroHedera — AI + Blockchain for Agriculture
-AI-powered agricultural assistant leveraging **Hedera Hashgraph** for secure, transparent record keeping and insights.  
-🔗 Repo: https://github.com/Nicolas6879/agro_hedera-agent
+</td>
+<td width="50%" valign="top">
 
-### 🪪 Offchain HubKey — Web3 Membership & Events Platform
-A complete engagement platform for Offchain Brasil (membership + identification via Web3/NFTs + partner hubs).  
-🔗 Repo: https://github.com/Nicolas6879/Offchain-hubkey
+**[PULSO Tanda](https://github.com/Nicolas6879/pulso-tanda)**
+On-chain rotating savings circle as a Soroban smart contract. Collateral covers defaults automatically and idle funds earn yield. Deployed on Stellar testnet.
+`NearX × Stellar Foundation`
 
-### 🧴 Derma.AI — Acne Grading Classification (Computer Vision)
-A project focused on a **basic acne type assessment** using an image dataset (notebook + slides included).  
-🔗 Repo: https://github.com/Nicolas6879/Derma.AI
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**[HIVE Protocol](https://github.com/Nicolas6879/HIVE)** &nbsp;🥈
+Autonomous knowledge marketplace where AI agents fund research, verify results and settle payments on Hedera. I designed the protocol and agent logic.
+`2nd place · ETHDenver 2026`
 
-## 🧰 Tech Stack 
-**Frontend:** React, Angular, JavaScript/TypeScript, HTML/CSS  
-**Backend:** Node.js, Express, Django  
-**Data/AI:** Python, Anaconda, Jupyter, Collab
-**Databases:** PostgreSQL, MySQL, MariaDB, MongoDB, Oracle  
-**Other:** Java, C++, Markdown, LaTeX
+</td>
+<td width="50%" valign="top">
 
----
+**[Derma.AI](https://github.com/Nicolas6879/Derma.AI)**
+Computer vision pipeline for acne classification, comparing four architectures (EfficientNetB7, ResNet50, EfficientNetB0, custom CNN) from preprocessing to evaluation.
+`Deep learning · Kaggle dataset`
 
-![Profile views](https://komarev.com/ghpvc/?username=nicolas6879&style=flat-square)
+</td>
+</tr>
+</table>
 
----
+<sub>Also: **[ScoutBrief](https://github.com/Nicolas6879/ScoutBrief)** — on-chain policy-gated AI purchasing agent built on Hedera Agent Kit V4.</sub>
 
-<p align="center">
-  <i>Let’s build something useful — and ship it. 🚀</i>
-</p>
+## Stack
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=solidity,rust,ts,react,nextjs,nodejs,python,fastapi&theme=dark)
+
+</div>
